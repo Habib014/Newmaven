@@ -8,6 +8,7 @@ public class Assertd {
 	
 		@BeforeClass
 		private static void beforeclasss() {
+			System.out.println("done...");
     		
 	}
 		@Test
